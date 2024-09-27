@@ -1,0 +1,35 @@
+.sjb-foot {
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0.35rem 0;
+    background: #1e4b8f;
+}
+.sjb-foot p{
+    font-size: 0.24rem;
+    line-height: 1.8;
+    color: #fff;
+    text-align: center;
+}
+.sjb-foot p a{
+    font-size: 0.24rem;
+    color: #fff;
+}
+.sjb-foot p i{
+    display: inline-block;
+     font-size: 0.24rem;
+     padding: 0 0.1rem;
+}
+.sjb-foot p.sjb-foot-lm1{
+    line-height: 2;
+}
+.sjb-foot p.sjb-foot-lm1 a,.sjb-foot p.sjb-foot-lm1 span{
+    font-size: 0.32rem;
+}
+.sjb-foot p.sjb-foot-lm1 i{
+    display: inline-block;
+     font-size: 0.3rem;
+     padding: 0 0.3rem;
+}
+.sjb-foot-lm2 img{
+    width: 1.2rem;
+}
